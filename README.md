@@ -1,0 +1,2 @@
+# MvcStokTakip
+Proje, sırasıyla View ve Layout oluşturma, Controller yapısı ve Layout düzenlemeleri, Action Result oluşturma, veri tabanı ve tablolar oluşturma, diyagram ve ilişkileri oluşturma, model oluşturulması, Controller ve Navbar, Menü Türkçeleştirme, Kategori listeleme, Ürün listeleme, Müşteri listeleme, bu bilgilerin silinmesi , güncellenmesi ve yeni kayıtlar eklenmesi, DropDownList kullanımı, ID'ye göre kategori adı getirme, sayfalar arası veri taşıma, sayfalama(paging), popup modal kullanımı ve arama paneli gibi aşamalardan geçmiş bir STOK TAKİP Uygulamasıdır.
